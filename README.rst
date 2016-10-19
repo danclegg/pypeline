@@ -1,7 +1,5 @@
 Pypeline
 =========
-.. image:: https://img.shields.io/github/tag/strongloop/express.svg
-.. image:: https://img.shields.io/github/release/qubyte/rubidium.svg
 .. image:: https://img.shields.io/badge/build-invalid-lightgrey.svg
 .. image:: https://img.shields.io/badge/coverage-invalid-lightgrey.svg
 
